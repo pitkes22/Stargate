@@ -1,0 +1,53 @@
+{
+"__comment": "Designed by Pitkes22 with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+"textures": {
+    "sg2": "sg2",
+    "ConGreyB": "ConGreyB",
+    "Earth": "Earth",
+    "SG_Front_AO": "SG_Front_AO",
+    "EarthB": "EarthB",
+    "horizont": "horizont"
+},
+"elements": [ 
+{
+    "from": [ -13.25, 12, -13.25 ],
+    "to": [ 29.25, 15.75, 29.25 ],
+    "faces": {
+        "down":  { "uv": [ 16, 16, 0, 0 ], "texture": "#EarthB" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#Earth" }
+    }
+}
+],
+"display": {
+    "thirdperson": {
+        "rotation": [ 0, 180, 0 ],
+        "translation": [ 0, -8, 0 ],
+        "scale": [ 2.5, 1.5, 2.5 ]
+    },
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 4, 3, 4 ]
+    },
+    "ground": {
+        "rotation": [ 90, 0, 0 ],
+        "translation": [ 0, 15, 0 ],
+        "scale": [ 4, 4, 4 ]
+    },
+    "fixed": {
+        "rotation": [ -90, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "firstperson": {
+        "rotation": [ -78, 43, 0 ],
+        "translation": [ -1.9, 4.7, 1.7 ],
+        "scale": [ 0.45, 0.45, 0.45 ]
+    },
+    "gui": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.5, 0.5, 0.5 ]
+    }
+}
+}
