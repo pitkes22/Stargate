@@ -82,7 +82,7 @@
 ],
 "display": {
     "thirdperson": {
-        "rotation": [ 0, 180, 0 ],
+        "rotation": [ 180, 0, 0 ],
         "translation": [ 0, -15, 0 ],
         "scale": [ 4, 4, 4 ]
     },

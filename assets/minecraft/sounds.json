@@ -1,1 +1,7 @@
-{"GateExitEnter1":{"sounds":["GateExitEnter1"]},"DHDGlyphHit1":{"sounds":["DHDGlyphHit1"]},"DHDGlyphHit2":{"sounds":["DHDGlyphHit2"]},"GateDialAbort":{"sounds":["GateDialAbort"]},"GateExitEnter2":{"sounds":["GateExitEnter2"]},"GateClose":{"sounds":["GateClose"]},"Chevron7Lock":{"sounds":["Chevron7Lock"]},"SGCAlarm":{"sounds":["SGCAlarm"]},"RingTurn":{"sounds":["RingTurn"]},"ChevronLock":{"sounds":["ChevronLock"]},"Kawoosh":{"sounds":["Kawoosh"]}}
+{"GateExitEnter1":{"sounds":["GateExitEnter1"]},"DHDGlyphHit1":{"sounds":["DHDGlyphHit1","DHDGlyphHit2"]},"DHDGlyphHit2":{"sounds":["DHDGlyphHit2"]},"GateDialAbort":{"sounds":["GateDialAbort"]},"GateExitEnter2":{"sounds":["GateExitEnter2"]},"GateClose":{"sounds":["GateClose"]},"Chevron7Lock":{"sounds":["Chevron7Lock"]},"SGCAlarm":{"sounds":["SGCAlarm"]},"RingTurn":{"sounds":["RingTurn"]},"ChevronLock":{"sounds":["ChevronLock"]},"Kawoosh":{"sounds":["Kawoosh"]},"StartRingTurn":{"sounds":["StartRingTurn"]},
+"RingTurnPart1":{"sounds":["RingTurnPart1"]},
+"RingTurnPart2":{"sounds":["RingTurnPart2"]},
+"RingTurnPart3":{"sounds":["RingTurnPart3"]},
+"RingTurnPart4":{"sounds":["RingTurnPart4"]},
+"RingTurnPart5":{"sounds":["RingTurnPart5"]},
+"RingTurnPart6":{"sounds":["RingTurnPart6"]}}
